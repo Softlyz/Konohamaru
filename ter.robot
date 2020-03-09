@@ -55,6 +55,6 @@ ${click_OTP}                       id=check_otp
      Wait Until Element Is Visible        ${code_กรอก_OTP}           
      input text                           ${code_กรอก_OTP}           ${กรอก_OTP}  
      Wait Until Element Is Visible        ${click_OTP}
-     click element                        ${click_OTP}
+     
 
- 
+ #LOVEEIEI
